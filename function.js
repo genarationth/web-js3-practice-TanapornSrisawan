@@ -10,7 +10,7 @@ const cal = (a,b) => {
     const multiply = a*b;
     const divide = a/b;
     console.log('Add = ' + add) ;
-    console.log('Aubtract = ' + subtract) ;
+    console.log('Subtract = ' + subtract) ;
     console.log('Multiply = ' + multiply) ;
     console.log('Divide = ' + divide) ;
 }
